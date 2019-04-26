@@ -30,7 +30,7 @@ def Rundriver(browser):
           "3.如何快速下载、安装和配置chromedriver?  https://jingyan.baidu.com/article/f7ff0bfcdd89ed2e27bb1379.html\n"
           "4.驱动的下载地址: http://chromedriver.storage.googleapis.com/index.html\n"
           "5.提醒一定要浏览器版本与插件版本相对应!\n"
-          "!!!6.chromedriver.exe放到chrome的安装目录!!!\n")
+          "!!!6.chromedriver.exe放到chrome的安装目录\n")
 
     print("请输入chromedriver.exe的路径(与chrome的安装目录一致)，例如:\n"
           "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chromedriver.exe")
