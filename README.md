@@ -20,5 +20,4 @@
 
 以及不要脸😀求大佬打赏。
 
-<img src="http://www.poetyin.com/img/wechatpay.png" height="200" width="200" />
-<img src="http://www.poetyin.com/img/alipay.png" height="200" width="200" />
+<img src="http://www.poetyin.com/img/wechatpay.png" height="200" width="200" /> <img src="http://www.poetyin.com/img/alipay.png" height="200" width="200" />
