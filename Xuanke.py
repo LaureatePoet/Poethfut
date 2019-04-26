@@ -118,7 +118,7 @@ def EnterWeb(browser):
 
 def CoreFunction(browser):
     try:
-        print("请输入关键词  (建议:教学班号，因为这样可以保证下方只出现一个\"选课\"按钮，例如:0500075X--001 )    ")
+        print("请输入关键词   (建议:教学班号，因为这样可以保证下方只出现一个\"选课\"按钮，例如:0500075X--001 )     ")
         classname = input()
         browser.switch_to.window(browser.window_handles[1])
         browser.find_element_by_xpath("//*[@id=\"global_filter\"]").send_keys(classname)
