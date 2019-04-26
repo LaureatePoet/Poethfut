@@ -16,7 +16,9 @@
 
 
 
-最后，欢迎大家访问我的[博客](http://www.poetyin.com/)
+最后，欢迎大家访问我的[博客](http://www.poetyin.com/)  
 以及不要脸😀求大佬打赏。
-![wechatpay](http://www.poetyin.com/img/wechatpay.png) {:height="100" width="100"}
-![alipay](http://www.poetyin.com/img/alipay.png) {:height="100" width="100"}
+
+<img src="http://www.poetyin.com/img/wechatpay.png" height="100" width="100" />
+![wechatpay](http://www.poetyin.com/img/wechatpay.png)
+![alipay](http://www.poetyin.com/img/alipay.png)
