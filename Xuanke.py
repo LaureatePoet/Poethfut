@@ -158,7 +158,7 @@ def main():
     browser = None
     browser = Rundriver(browser)
     login(browser)
-    s = '
+    s = 'Number1,Number2,...,NumberN'
     CheckID(browser,s)
     EnterWeb(browser)
     CoreFunction(browser)
