@@ -1,7 +1,7 @@
-# hfut
+# Poethfut
 
 
-## About HFUT Academic Course Selection System 2013.01 Python script
+## About HFUT Academic Course Selection System 2019.01 Python script
 
 ## 功能 
 1. 自定义“选课”点击区间(random)
@@ -20,4 +20,4 @@
 
 以及不要脸😀求大佬打赏。
 
-<img src="http://www.poetyin.com/img/wechatpay.png" height="200" width="200" /> <img src="http://www.poetyin.com/img/alipay.png" height="200" width="200" />
+<img src="http://www.poetyin.com/img/wechatpay.png" height="200" width="200" />   <img src="http://www.poetyin.com/img/alipay.png" height="200" width="200" />
